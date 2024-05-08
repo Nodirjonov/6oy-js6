@@ -1,0 +1,26 @@
+#card{
+border: 1px solid black;
+border-radius: 20px;
+width: 300px;
+height: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.70);
+}
+#card div{
+    text-align: center;
+}
+img{
+    margin-top: 15px;
+}
+#btn{
+    border-radius: 10px 0px 10px 0px;
+    background-color: cornflowerblue;
+    border: none;
+    color: blueviolet;
+    width: 100px;
+    height: 30px;
+margin: 20px;
+margin-left: 100px;
+}
